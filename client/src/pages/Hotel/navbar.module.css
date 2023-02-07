@@ -1,0 +1,95 @@
+.red{
+    color: #F61C1C;
+}
+.navbar{
+    width: 100vw;
+    overflow: hidden;
+}
+.hotel_img_title{
+   position: absolute;
+top: 47%;
+    left: 30%;
+font-weight: 700;
+    font-size: 60px;
+    line-height: 70px;
+
+
+    color: #FFFFFF;
+}
+.testimonial_container{
+    display: flex;
+}
+.testimonial{
+    display: flex;
+    width: 176.91px;
+        height: 71.92px;
+         background: #DADADA;
+        align-items: center;
+        justify-content: space-around;
+        margin: 8px;
+        cursor: pointer;
+}
+.testimonial_container :hover{
+    background: #FFC814;;
+}
+.testimonial_img{
+    width: 44.23px;
+        height: 47.94px;
+            border-radius: 4px 4px 0px 0px;
+}
+.nav_container{
+    height: 199.71px;
+        background: #D3D4ED;
+        box-shadow: 0px 6px 24px;
+        padding: 3px;
+        justify-content: space-between;
+}
+.nav_input_lists{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.booking_info_container{
+    display: flex;
+    align-items: center;
+    padding-top: 4%;
+}
+.booking_info_labels{
+    width: 199.02px;
+        height: 20.77px;
+    
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 24px;
+    
+        color: #1F3347;
+}
+.booking_info{
+    text-decoration: none;
+    list-style: none;
+    margin-left: 5%;
+}
+.info_placeholder{
+    width: 250.62px;
+        height: 48.47px;
+        padding: 3px;    
+        background: #FFFFFF;
+        box-shadow: 0px 6px 24px #E4E2EE;
+        border-radius: 4px;
+        border: 1px;
+        cursor: pointer;
+}
+.nav_search{
+    width: 235.88px;
+        height: 58.83px;
+        color: #FFFFFF;;
+        background: #000000;
+        box-shadow: 0px 6px 24px rgba(255, 200, 20, 0.4);
+        border-radius: 4px;
+}
+.booking_info_container1{
+    margin-right: 4%;
+    padding-top: 4.8%;
+}

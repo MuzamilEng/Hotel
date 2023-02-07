@@ -1,0 +1,124 @@
+.main_body{
+    margin-left: 2%;
+    display: flex;
+    background: white;
+}
+.offer_info{
+    margin-left: -5%;
+        display: flex;
+        padding: 3px;
+    }
+    .pad_5{
+        padding: 5px;
+    }
+    .main_content{
+margin: 227px 26px;
+overflow: hidden;
+    }
+    .my_property{
+        font-family: 'Inter', sans-serif;
+    }
+    .headings{
+        font-family: 'Inter', sans-serif;
+            font-weight: 300 bold;
+    }
+    .popular_imgcontent_title{
+        font-family: 'Inter', sans-serif;
+        color: #39466d;
+        font-weight: 300 bold;
+    }
+    .content_para{
+        font-family: 'Inter', sans-serif;
+    }
+.offer_img{
+padding: 1%;
+    width: 600px;
+    height: 300px;
+    border-radius: 5px;
+}
+.popular_img {
+    padding-right: 10px;
+    width: 186px;
+    height: 100px;
+}
+.popular_places{
+    margin-top: 2%;
+    display: flex;
+    margin-right: 6%;
+}
+.curated_title{
+    font-family: 'Inter', sans-serif;
+        color: #39466d;
+        font-weight: 300 bold;
+}
+.choose_container{
+    font-family: 'Inter', sans-serif;
+        color: #39466d;
+        font-weight: 300 bold;
+}
+.choose_title{
+    font-family: 'Inter', sans-serif;
+        color: #39466d;
+        font-weight: 300 bold;
+}
+.popular{
+    font-family: 'Inter', sans-serif;
+        color: #39466d;
+        font-weight: 300 bold;
+}
+.popular_title{
+        font-family: 'Inter', sans-serif;
+            color: #39466d;
+            font-weight: 300 bold;
+}
+.curated_hotels{
+    margin-top: 3%;
+}
+ .curated_img {
+     width: 347px;
+
+     height: 200px;
+ }
+
+.curated_container{
+    width: 347px;
+    margin: 23px 0px;
+        border: 1px solid gray}
+.curated_hotel_container{
+display: flex;
+    margin-right: 5%;
+    justify-content: space-around;
+    /* justify-content: space-around; */
+}
+.main_footer{
+    display: flex;
+}
+.footer_content{
+display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+    padding: 5px;
+}
+.footer_main{
+display: flex;
+    width: 350px;
+    align-items: center;
+    padding: -2px;
+    margin: 5px;
+    height: 100px;
+    border: 1px solid rgb(204, 203, 203);
+}
+.choose_container{
+    padding-top: 51px;
+}
+.footer_logo{
+    width: 40px;
+    height: 40px;
+}
+.footer_logo_container{
+    display: flex;
+        align-items: center;
+        height: 100px;
+        border-right: 1px solid rgb(204, 203, 203)
+}

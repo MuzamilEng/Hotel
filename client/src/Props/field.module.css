@@ -1,0 +1,19 @@
+ .pro_types {
+    font-family: 'Poppins';
+     display: flex;
+     justify-content: space-between;
+     margin: 2px;
+     padding: 2px;
+     align-items: center;
+        position: relative;
+ }
+
+ .propery_label {
+    font-family: 'Poppins';
+     padding-left: 10px;
+ }
+
+ .filter_field_img {
+   margin-left: 5px;
+    width: 20px;
+ }

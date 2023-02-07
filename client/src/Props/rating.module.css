@@ -1,0 +1,28 @@
+.rating_section {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.rating_msg {
+    padding-left: 8%;
+        border-bottom: 1px solid rgb(218, 214, 214);
+}
+
+.stars_img {
+    width: 112px;
+    height: 68px;
+}
+
+.rating_para {
+    line-height: 2rem;
+    font-size: 20px;
+    width: 500px;
+}
+
+.rating_container {
+    padding-bottom: 10px;
+}
+.rating_label {
+    font-size: 20px;
+}

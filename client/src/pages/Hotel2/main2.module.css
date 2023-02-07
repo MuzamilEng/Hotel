@@ -1,0 +1,94 @@
+.h2_main_body{
+    display: flex;
+    overflow: hidden;
+        font-family: 'Poppins';
+        background-color: white;
+   
+}
+.amdabad{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 3px;
+        font-family: 'Poppins';
+    align-items: center;
+    border-bottom: 1px solid rgb(212, 212, 212);
+}
+.updown{
+    width: 16px;
+        height: 16px;
+        margin-left: -17%;
+            font-family: 'Poppins';
+
+    
+}
+
+/* .sorts{
+    width: 20px;
+} */
+.sort_input{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+        font-family: 'Poppins';
+}
+.dropdown_h2{
+    margin-left: 1%;
+        font-family: 'Poppins';
+}
+.resturant_h2{
+    margin: 2px;
+    padding-top: 2%;
+        font-family: 'Poppins';
+}
+.main2_wrapper{
+    display: flex;
+}
+.main2_inpt{
+    align-items: center;
+    display: flex;
+    margin: 2px;
+    padding: 3px;
+        font-family: 'Poppins';
+}
+.blue_search{
+    background-color: blue;
+    color: white;
+    border: 1px solid;
+    padding: 8px;
+    width: 15%;
+        font-family: 'Poppins';
+}
+.slider_button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+        font-family: 'Poppins';
+}
+.slider_sections{
+    display: flex;
+    align-items: center;
+        font-family: 'Poppins';
+   
+
+}
+.sliders{
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid rgb(209, 209, 209);
+}
+.sliders :hover{
+    border-radius: 1px solid blue;
+}
+.left_slider:hover{
+    border-radius: 1px solid blue;}
+.left_slider{
+    width: 31px;
+    height: 32px;
+    border: 1px solid;
+}
+.my_property {
+    font-family: 'Inter', sans-serif;
+}
+.yellow {
+    color: #FFC814;
+}
